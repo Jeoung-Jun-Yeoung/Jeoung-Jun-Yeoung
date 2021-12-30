@@ -54,25 +54,22 @@
 **🔨 Interest Tehc**
 <br>
 <br>
-<img src="https://img.shields.io/badge/C-FFA500?style=flat&logo=C&logoColor=FFFFFF"/>
+language <img src="https://img.shields.io/badge/C-FFA500?style=flat&logo=C&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-00008B?style=flat&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Cuda-76B900?style=flat&logo=NVIDIA&logoColor=FFFFFF"/>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
+Web <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
 <br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF"/>
+Making <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=FFFFFF"/>
 
 
 
-
-
-
-
-
+<br>
 ![Jeoung-Jun-Yeoung's github stats](https://github-readme-stats.vercel.app/api?username=Jeoung-Jun-Yeoung&show_icons=true)
-
+<br>
 [![Jeoung-Jun-Yeoung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoung-Jun-Yeoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jeoung-Jun-Yeoung)
 
 <!--
