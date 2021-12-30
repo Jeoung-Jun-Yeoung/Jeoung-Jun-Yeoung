@@ -4,8 +4,6 @@
 <br>
 
 
-
-
 🏫 soongsil univ computer science && ICT distribution logistics
 <br>
 
@@ -55,7 +53,18 @@
 
 **🔨 Interest Tehc**
 <br>
-<img src="https://img.shields.io/badge/C-FFA500?style=flat&logo=webcomponents.org&logoColor=FFFFFF"/></a>
+<br>
+<img src="https://img.shields.io/badge/C-FFA500?style=flat&logo=C&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-00008B?style=flat&logo=Python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cuda-76B900?style=flat&logo=NVIDIA&logoColor=FFFFFF"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF"/>
+
+
 
 
 
