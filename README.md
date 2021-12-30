@@ -1,6 +1,8 @@
 # Hi! Thanks for visiting my github 👋
 
-**jeoung jun yeong😄   soongsil univ computer science   GoogleDevloperStudentClub soongsil member 
+**jeoung jun yeong😄   
+soongsil univ computer science
+GoogleDevloperStudentClub soongsil member 
 
 
 **🔭 Work
