@@ -5,7 +5,7 @@
 ## 🔭 Work
 
 숭실대학교 컴퓨터학부 고성능컴퓨터시스템연구실 연구생
-<a href="https://sites.google.com/view/hpcs-ssu" target="_blank"><img src="https://img.shields.io/badge/연구실-FA8072?style=plastic&logo=29ABE2&logoColor=FF6347"/></a>
+<a href="https://sites.google.com/view/hpcs-ssu" target="_blank"><img src="https://img.shields.io/badge/Lab-FA8072?style=plastic&logo=#29ABE2&logoColor=FF6347"/></a>
 
 <!--
 **Jeoung-Jun-Yeoung/Jeoung-Jun-Yeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
