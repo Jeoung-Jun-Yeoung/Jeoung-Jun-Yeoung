@@ -4,7 +4,7 @@
 <br>
 
 
-🏫 soongsil univ computer science && ICT distribution logistics
+🏫 Soongsil univ computer science && ICT distribution logistics
 <br>
 
 
