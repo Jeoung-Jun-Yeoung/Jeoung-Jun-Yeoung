@@ -20,7 +20,7 @@
 
 **🔭 Work**
 
-- 숭실대학교 컴퓨터학부 고성능컴퓨터시스템연구실 연구생   <a href="https://sites.google.com/view/hpcs-ssu" target="_blank"><img src="https://img.shields.io/badge/Lab-FA8072?style=flat&logo=webcomponents.org&logoColor=000000"/></a>
+- 숭실대학교 컴퓨터학부 고성능컴퓨터시스템연구실 연구생 (2021.07 ~ 2022.12)
 
 <br>
 
